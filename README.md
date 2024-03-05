@@ -12,8 +12,8 @@ This module is for deploying `resource group` resource in Azure using Terraform
 
 
 ### Outputs
-|Variable Name|Type| Default |Description|
-|:------|:------|:-----|:-----|
-| rg_id_out | `string` | | Id of the created resource group
-| rg_name_out | `string` | | Name of the created resource group
-| rg_location_out | `string` |  | Location of the created resource group
+|Name | Description |
+|:------|:-----|
+| rg_id_out | Id of the created resource group
+| rg_name_out | Name of the created resource group
+| rg_location_out | Location of the created resource group
